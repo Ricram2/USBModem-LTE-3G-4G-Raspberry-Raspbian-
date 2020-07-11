@@ -1,4 +1,4 @@
-# USB_LTE-3G-Raspberry-
+# USB_LTE-3G-4G-Raspberry-USBModem
 Connecting to internet on a Raspberry Pi 3B+ (Raspbian) Via USB modem LTE/4G/3G ZTE MF821
 
 ### 1.  Install Modeswitch 
