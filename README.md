@@ -50,7 +50,7 @@ Then run it.
 sudo ./usbconnect.sh
 ``` 
 
-### You may need to:
+### You may need to do this after:
 ```shell
 route add default dev ppp0
 ```
