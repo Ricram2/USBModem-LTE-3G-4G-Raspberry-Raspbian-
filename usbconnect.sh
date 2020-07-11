@@ -30,4 +30,5 @@ wvdial
 # after user hits ctrl-c we stop the managers again so that we can manually start other network connections again
 service modemmanager stop
 service network-manager stop
-route add default dev ppp0
+# you may need to run the next line on shell. 
+# route add default dev ppp0
